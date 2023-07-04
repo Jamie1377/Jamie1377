@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️
-- 💻  I’m currently working on SQL, ML, and MATH.
-- ⚽️  I'm also a fan of football/soccer
-
+- 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
+- 💻  I’m currently working on SQL, ML, and MATH. Also interested in data analysis and viz 📈. 
+- ⚽️  I'm also a fan of football/soccer and F1 🏎.
+- 🧑🏻‍💻  I'm seeing myself still a junior in coding/programming
   
 - The GitHub Readme Stat from Anurag 👍
 
