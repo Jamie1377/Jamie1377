@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️
+- 💻  I’m currently working on SQL, ML, and MATH.
+- ⚽️  I'm also a fan of football/soccer
 
+  
+- The GitHub Readme Stat from Anurag 👍
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie1377)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jamie1377/Jamie1377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
