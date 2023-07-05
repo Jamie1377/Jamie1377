@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/yueyu10">
   <img align="left" alt="Jamie's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://public.tableau.com/app/profile/jamieyu">
+  <img align="left" alt="Jamie's Tableau public" width="22px" src="https://github.com/Jamie1377/Jamie1377/assets/122959846/f0cc641d-306e-435a-ae40-aa2b84722ffb" />
+</a>
 <br />
 
 - 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
@@ -29,7 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
+<code><img height="20" width="20" src="https://github.com/Jamie1377/Jamie1377/assets/122959846/f0cc641d-306e-435a-ae40-aa2b84722ffb"></code>  
 - The GitHub Readme Stat from Anurag 👍
 
 
