@@ -12,17 +12,13 @@
 <a href="https://www.linkedin.com/in/yueyu10">
   <img align="left" alt="Jamie's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-
-
-<br     />
-
-
+<br />
 
 - 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
-- 💻  I’m currently working on SQL, ML, and MATH. Also interested in data analysis and viz 📈. 
+- 💻  I’m currently working on SQL, ML, and MATH. Also interested in data analysis and viz 📈.
+  
 - ⚽️  I'm also a fan of football/soccer and F1 🏎.
+  
 - 🧑🏻‍💻  I'm seeing myself still a junior in coding/programming
   
 
