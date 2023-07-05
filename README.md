@@ -1,4 +1,17 @@
 ### Hi there 👋
+<a href="https://www.instagram.com/wakinglions__/">
+  <img align="left" alt="Jamie's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.com/channels/@me/1079547666377228288">
+  <img align="left" alt="Jamie's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+</a>
+<a href="https://www.linkedin.com/in/yueyu10">
+  <img align="left" alt="Jamie's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+
 - 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
 - 💻  I’m currently working on SQL, ML, and MATH. Also interested in data analysis and viz 📈. 
 - ⚽️  I'm also a fan of football/soccer and F1 🏎.
