@@ -2,23 +2,26 @@
 
 
 <a href="https://www.instagram.com/wakinglions__/">
-  <img align="left" alt="Jamie's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Jamie's Instagram" width="48px" src="https://github.com/Jamie1377/Jamie1377/blob/main/vecteezy_instagram-logo-transparent-png_21492161_981.png" />
 </a>
 <a href="https://discord.com/channels/@me/1079547666377228288">
-  <img align="left" alt="Jamie's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Jamie's Discord" width="48px" src="https://github.com/Jamie1377/Jamie1377/blob/main/vecteezy_discord-logo-png-discord-icon-transparent-png_18930718_792.png" />
 </a>
 
 
 <a href="https://www.linkedin.com/in/yueyu10">
-  <img align="left" alt="Jamie's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jamie's LinkedIN" width="48px" src="https://github.com/Jamie1377/Jamie1377/blob/main/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png" />
 </a>
 <a href="https://public.tableau.com/app/profile/jamieyu">
-  <img align="left" alt="Jamie's Tableau public" width="22px" src="https://github.com/Jamie1377/Jamie1377/assets/122959846/f0cc641d-306e-435a-ae40-aa2b84722ffb" />
+  <img align="left" alt="Jamie's Tableau public" width="48px" src="https://github.com/Jamie1377/Jamie1377/assets/122959846/f0cc641d-306e-435a-ae40-aa2b84722ffb" />
 </a>
 
-<br />
+<br />     
+
+###
 
 - 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
+  
 - 💻  I’m currently working on SQL, ML, and MATH. Also interested in data analysis and viz 📈.
   
 - ⚽️  I'm also a fan of football/soccer and F1 🏎.
