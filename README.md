@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/yueyu10">
   <img align="left" alt="Jamie's LinkedIN" width="48px" src="https://github.com/Jamie1377/Jamie1377/blob/main/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png" />
 </a>
-<a href="https://public.tableau.com/app/profile/jamieyu">
-  <img align="left" alt="Jamie's Tableau public" width="35px" src="https://github.com/Jamie1377/Jamie1377/blob/main/download.png" />
-</a>
 
 <br />     
 
