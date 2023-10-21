@@ -31,11 +31,11 @@
 
 - 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
   
-- 💻  I’m currently working on SQL, ML, and MATH. Also interested in data analysis and viz 📈.
+- 💻  I’m currently working on SQL, ML, and MATH (theory and coding). Also interested in data analysis and viz 📈.
   
 - ⚽️  I'm also a fan of football/soccer and F1 🏎.
   
-- 🧑🏻‍💻  I'm seeing myself still a junior in coding/programming
+- 🧑🏻‍💻  I'm seeing myself still a junior in coding/programming/quant/quant consulting 
   
 
 **Languages and tools:**  
