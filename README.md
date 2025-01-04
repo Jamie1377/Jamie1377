@@ -29,7 +29,7 @@
 ---- 
 
 
-- 📚  I'm a UofT 3rd year student 🇨🇦🍁🍂🥶🧊☃️.
+- 📚  I'm a UofT 4th year student 🇨🇦🍁🍂🥶🧊☃️.
   
 - 💻  I’m currently working on SQL, ML, and MATH (theory and coding). Also interested in data analysis and viz 📈.
   
