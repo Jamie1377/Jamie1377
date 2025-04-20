@@ -21,15 +21,18 @@
 
 
   
-<br />     
+<br>     
 
-<br> 
+<br/> 
   
 
 <a 
   href="https://github.com/Jamie1377/Resume/blob/main/Resume%20Quant%20Fin%20Mar%2024.pdf"> Here is my resume  
 </a>
 
+<br>     
+
+<br/> 
 
 ###
 
