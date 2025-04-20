@@ -19,18 +19,13 @@
   <img align="left" alt="Jamie's Kaggle" width="48px" height="45px" src="https://github.com/Jamie1377/Jamie1377/blob/main/Kaggle_Logo.svg" />
 </a>
 
-
-  
 <br>     
-
-
 <br>
-<p>
-<a 
-  href="https://github.com/Jamie1377/Resume/blob/main/Resume%20Quant%20Fin%20Mar%2024.pdf"> Here is my resume  
+<br>
+<a href="https://github.com/Jamie1377/Resume/blob/main/Resume%20Quant%20Fin%20Mar%2024.pdf">    Resume 
 </a>
-</p>
-
+<br>
+<br>
 
 ###
 
