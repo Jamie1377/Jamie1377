@@ -22,7 +22,7 @@
 <br>     
 <br>
 <br>
-<a href="https://github.com/Jamie1377/Resume/blob/main/Resume%20Quant%20Fin%20Mar%2024.pdf">    Resume 
+<a href="https://github.com/Jamie1377/Resume/blob/main/Resume%20Quant%20Fin%20v4.pdf">    Resume 
 </a>
 <br>
 <br>
