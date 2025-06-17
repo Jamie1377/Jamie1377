@@ -3,12 +3,7 @@
 
 <!--- <a href="https://jamie1377.github.io/webpage.html">Visit my Personal website!</a> --->
 
-<a href="https://www.instagram.com/wakinglions__/">
-  <img align="left" alt="Jamie's Instagram" width="48px" src="https://github.com/Jamie1377/Jamie1377/blob/main/vecteezy_instagram-logo-transparent-png_21492161_981.png" />
-</a>
-<a href="https://discord.com/channels/@me/1079547666377228288">
-  <img align="left" alt="Jamie's Discord" width="48px" src="https://github.com/Jamie1377/Jamie1377/blob/main/vecteezy_discord-logo-png-discord-icon-transparent-png_18930718_792.png" />
-</a>
+
 
 
 <a href="https://www.linkedin.com/in/yueyu10">
